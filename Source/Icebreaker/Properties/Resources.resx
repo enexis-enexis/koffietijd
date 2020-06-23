@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -118,95 +118,95 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ChatWithMatchButtonText" xml:space="preserve">
-    <value>Chat with {0}</value>
-    <comment>Button text to initiate a chat with the person the user has been matched up with</comment>
+    <value>Chat met {0}</value>
+    <comment>Knop tekst om een chat te starten met de persoon waarmee de gebruiker is gematcht.</comment>
   </data>
   <data name="ErrorOccured" xml:space="preserve">
-    <value>There was an error while processing request. Retry?</value>
-    <comment>A generic message that is sent when there is an error occurring</comment>
+    <value>Er was een fout bij de verwerking van het verzoek. Opnieuw proberen?</value>
+    <comment>Een algemeen bericht dat wordt verstuurd wanneer er een fout optreedt</comment>
   </data>
   <data name="InstallMessageKnownInstallerPart1" xml:space="preserve">
-    <value>If you're reading this, it's most likely because {0} added me to the **{1} Team.**</value>
-    <comment>Install message and also the welcome message when the app installer is known - {0} is the placeholder for the name of the user that has installed the app to the team, and {1} is the placeholder for the name of the team that the app has been installed to</comment>
+    <value>Als je dit leest, het is waarschijnlijk omdat {0} mij aan het **{1} Team heeft toegevoegd.**</value>
+    <comment>Installatie bericht en ook het welkomstbericht wanneer het installatieprogramma van de app bekend is - {0} is de plaatshouder voor de naam van de gebruiker die de app bij het team heeft geïnstalleerd, en {1} is de plaatshouder voor de naam van het team waarop de app is geïnstalleerd</comment>
   </data>
   <data name="InstallMessageKnownInstallerPart2" xml:space="preserve">
-    <value>I get to help you meet more people around your organization by randomly pairing you with someone new every week. You get to make more friends and learn about the people you work with. It's a win-win-*win* situation.</value>
-    <comment>Part 2 of the install message when the name of the installer is known</comment>
+    <value>Ik kan u helpen meer mensen in uw organisatie te ontmoeten door u elke week willekeurig aan iemand anders te koppelen. U kunt meer vrienden maken en leren over de mensen met wie u werkt. Het is een win-win-*win* situatie.</value>
+    <comment>Deel 2 van het installatiebericht wanneer de naam van de installateur bekend is</comment>
   </data>
   <data name="InstallMessageKnownInstallerPart3" xml:space="preserve">
-    <value>**To meet new people, just hang tight. I'll send you an invite soon.**</value>
-    <comment>Part 3 of the install message with the name of the installer known</comment>
+    <value>**Om nieuwe mensen te ontmoeten, hou nog even vol. Ik stuur je binnenkort een uitnodiging.**</value>
+    <comment>Deel 3 van het installatiebericht</comment>
   </data>
   <data name="InstallMessageUnknownInstallerPart1" xml:space="preserve">
-    <value>If you're reading this, it's because I was installed to **{0} Team.** </value>
-    <comment>Install message and also the welcome message when the app installer is not known - {0} is the placeholder for the name of the team that the app has been installed to</comment>
+    <value>Als je dit leest, Het is omdat ik geïnstalleerd ben bij **{0} Team.**</value>
+    <comment>Installatie bericht en ook het welkomstbericht wanneer het installatieprogramma van de app niet bekend is - {0} is de plaatshouder voor de naam van het team dat de app is geïnstalleerd om</comment>
   </data>
   <data name="InstallMessageUnknownInstallerPart2" xml:space="preserve">
-    <value>I get to help you meet more people around your organization by randomly pairing you with someone new every week. You get to make more friends and learn about the people you work with. It's a win-win-*win* situation.</value>
-    <comment>Part 2 of the install message when the name of the installer is not known</comment>
+    <value>Ik kan je helpen meer mensen in je organisatie te ontmoeten door je elke week willekeurig aan iemand anders te koppelen. Je kunt meer vrienden maken en leren over de mensen met wie je werkt. Het is een win-win-*win* situatie.</value>
+    <comment>Deel 2 van het installatiebericht wanneer de naam van de installateur niet bekend is</comment>
   </data>
   <data name="InstallMessageUnknownInstallerPart3" xml:space="preserve">
-    <value>**To meet new people, just hang tight. I'll send you an invite soon.**</value>
-    <comment>Part 3 of the install message when the name of the installer is not known</comment>
+    <value>**Om nieuwe mensen te ontmoeten, hou nog even vol. Ik stuur je binnenkort een uitnodiging.**</value>
+    <comment>Deel 3 van het installatiebericht wanneer de naam van de installateur niet bekend is </comment>
   </data>
   <data name="MatchUpCardContentPart1" xml:space="preserve">
-    <value>Hi there again, I'm {0} in {1}. A bot that pairs you with a new coworker to meet each week. This week your match is {2}.</value>
-    <comment>First part of the match up card main content</comment>
+    <value>Hallo,  Ik ben {0} in {1}. Een bot die je koppelt aan een nieuwe collega om elke week te ontmoeten. Deze week is je match {2}.</value>
+    <comment>Eerste deel van de match up kaart hoofdinhoud</comment>
   </data>
   <data name="MatchUpCardContentPart2" xml:space="preserve">
-    <value>If you've got the inclination, set something up. See, meeting people *is* easy!</value>
-    <comment>Second part of the match up card main content</comment>
+    <value>Als je de neiging hebt, zet dan iets op. Zie je, mensen ontmoeten *is* gemakkelijk!</value>
+    <comment>Tweede deel van de match up kaart hoofdinhoud</comment>
   </data>
   <data name="MatchUpCardMatchedText" xml:space="preserve">
-    <value>You've been matched with {0}.</value>
-    <comment>The text saying who the user has been matched up with</comment>
+    <value>Je bent gematcht met {0}.</value>
+    <comment>De tekst die zegt dat de gebruiker is gematcht met</comment>
   </data>
   <data name="MatchUpCardTitleContent" xml:space="preserve">
-    <value>It's time for a match!</value>
-    <comment>The title text for the pairup notification adaptive card</comment>
+    <value>Het is tijd voor een match!</value>
+    <comment>De titeltekst voor de pairup-meldingskaart is adaptief.</comment>
   </data>
   <data name="MeetupContent" xml:space="preserve">
-    <value>Hey there, looks like we've been matched by {0} this week. It'd be great to meet up for a coffee or a lunch or a call if you've got time.</value>
-    <comment>Content of the Meetup for the propose meeting</comment>
+    <value>Hallo, het lijkt erop dat we deze week door {0} zijn gematched. Het zou geweldig zijn om elkaar te ontmoeten voor koffie, lunch of een telefoontje als je tijd hebt.</value>
+    <comment>Inhoud van de meeting voor de voorgestelde vergadering</comment>
   </data>
   <data name="MeetupTitle" xml:space="preserve">
-    <value>{0} / {1} Meet up</value>
-    <comment>The title for the Meetup - {0} is the name of the first person that user has been matched with and {1} is the name of the user</comment>
+    <value>{0} / {1} Ontmoeting</value>
+    <comment>De titel voor de meeting - {0} is de naam van de eerste persoon waarmee de gebruiker is gematcht en {1} is de naam van de gebruiker</comment>
   </data>
   <data name="OptInConfirmation" xml:space="preserve">
-    <value>Welcome back! You've been missed. I've restarted your matches. Have fun!</value>
-    <comment>The confirmation reply that is sent when the user resumes the matches</comment>
+    <value>Welkom terug! Je bent gemist. Ik heb je matches opnieuw gestart. Veel plezier!</value>
+    <comment>Het bevestigingsantwoord dat wordt verzonden wanneer de gebruiker de matches hervat</comment>
   </data>
   <data name="OptOutConfirmation" xml:space="preserve">
-    <value>All set. I've paused your matches. You can turn them back on whenever you like.</value>
-    <comment>The confirmation reply that is sent when the user pauses all matches</comment>
+    <value>Het is gelukt. Ik heb je matches gepauzeerd. Je kunt ze weer aanzetten wanneer je maar wilt.</value>
+    <comment>Het bevestigingsantwoord dat wordt verzonden wanneer de gebruiker alle matches pauzeert</comment>
   </data>
   <data name="PausePairingsButtonText" xml:space="preserve">
-    <value>Pause all matches</value>
-    <comment>Button text to pause pairings</comment>
+    <value>Pauzeer alle matches</value>
+    <comment>Knoptekst om koppelingen te pauzeren</comment>
   </data>
   <data name="ProposeMeetupButtonText" xml:space="preserve">
-    <value>Propose meetup</value>
-    <comment>Button text to propose the meetup with the match of the user</comment>
+    <value>Stel een ontmoeting voor</value>
+    <comment>Knoptekst om de meetup voor te stellen met de match van de gebruiker</comment>
   </data>
   <data name="ResumePairingsButtonText" xml:space="preserve">
-    <value>Resume matches</value>
-    <comment>Button text to resume pairings</comment>
+    <value>Hervatting van matches</value>
+    <comment>Knoptekst om koppelingen te hervatten</comment>
   </data>
   <data name="SalutationTitleText" xml:space="preserve">
-    <value>Hi there!</value>
-    <comment>This is the text for the salutation in the adaptive cards when the bot is installed to a team and also when new users are added to the team</comment>
+    <value>Hallo!</value>
+    <comment>Dit is de tekst voor de aanhef in de adaptieve kaarten wanneer de bot wordt geïnstalleerd in een team en ook wanneer nieuwe gebruikers worden toegevoegd aan het team</comment>
   </data>
   <data name="TakeATourButtonText" xml:space="preserve">
-    <value>Take a tour</value>
-    <comment>The text for the button which launches a tour when clicked</comment>
+    <value>Neem een rondleiding.</value>
+    <comment>De tekst voor de knop die een tour start als er op wordt geklikt</comment>
   </data>
   <data name="UnrecognizedInput" xml:space="preserve">
-    <value>I'm sorry, but I can't process the incoming message. You can take a tour, though, to learn more about my functionality.</value>
-    <comment>The text for the unrecognized input scenario</comment>
+    <value>Het spijt me, maar ik kan het binnenkomende bericht niet verwerken. U kunt wel een rondleiding krijgen, om meer te weten te komen over mijn functionaliteit.</value>
+    <comment>De tekst voor het onherkenbare invoerscenario</comment>
   </data>
   <data name="WelcomeTourTitle" xml:space="preserve">
-    <value>Tour</value>
-    <comment>This is the title of the tour for the Icebreaker Bot</comment>
+    <value>Rondleiding</value>
+    <comment>Dit is de titel van de tour voor de Koffietijd Bot</comment>
   </data>
 </root>
