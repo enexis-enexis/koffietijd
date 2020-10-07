@@ -126,7 +126,7 @@
     <comment>Een algemeen bericht dat je ontvangt als er iets fout is gegaan.</comment>
   </data>
   <data name="InstallMessageKnownInstallerPart1" xml:space="preserve">
-    <value>Je ontvangt dit bericht omdat {0} mij waarschijnlijk aan het **{1} Team heeft toegevoegd.** </value>
+    <value>Je ontvangt dit bericht, omdat team Modern Werken mij aan het **Koffietijd Team heeft toegevoegd.** </value>
     <comment>Installatie- en welkomstbericht als iemand de app voor de Teams omgeving heeft geïnstalleerd. {0} bevat de naam van de collega die de installatie heeft uitgevoerd. {1} bevat de naam van de Teams omgeving waarvoor de app is geïnstalleerd.</comment>
   </data>
   <data name="InstallMessageKnownInstallerPart2" xml:space="preserve">
